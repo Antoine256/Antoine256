@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Cover](https://github.com/Antoine256/Antoine256/img/cover.jpg)
 <!--
 **Antoine256/Antoine256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
