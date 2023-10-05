@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+https://skillicons.dev/icons?i=flutter,dart,python,c,java,javascript,typescript,html,css,php,mongodb,firebase,androidstudio,git,idea,kotlin,mysql,nodejs,svelte&perline=5
 <!--
 **Antoine256/Antoine256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
